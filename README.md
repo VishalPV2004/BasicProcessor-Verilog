@@ -20,7 +20,7 @@ clk1: Clock signal for the first clock domain.
 
 clk2: Clock signal for the second clock domain.
 
-## Outputs
+### Outputs
 Zout: 16-bit output representing the result of the pipelined execution.
 
 ## Execution Stages
