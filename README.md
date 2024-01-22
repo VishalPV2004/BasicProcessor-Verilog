@@ -2,6 +2,8 @@
 ## Overview
 The module is a Verilog implementation of a pipelined execution unit with two clock domains (clk1 and clk2). It is designed to execute a variety of operations, including arithmetic, logical, and memory operations. The module has been structured to efficiently process instructions through different pipeline stages.
 
+![Screenshot (271)](https://github.com/VishalPV2004/BasicProcessor-Verilog/assets/125368625/169f2997-f89b-455e-ac56-c32c3c60eb07)
+
 ## Module Ports
 ### Inputs
 rs1: 10-bit input representing the first source register.
