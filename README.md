@@ -66,12 +66,11 @@ The module supports various operations based on the func input:
 #### mem: 1 KB memory.
 
 ![Screenshot (274)](https://github.com/VishalPV2004/BasicProcessor-Verilog/assets/125368625/dc619072-d4b9-4057-9d09-bd72864a6d2b)
-Contribution:
-
-## Contributions and feedback are encouraged. Feel free to open issues or submit pull requests to enhance the functionality of the module.
+## Contribution:
+Contributions and feedback are encouraged. Feel free to open issues or submit pull requests to enhance the functionality of the module.
 
 ## License
-This project is licensed under the MIT License, permitting educational and personal use.
+This project is licensed under the [MIT](https://opensource.org/license/mit/) License, permitting educational and personal use.
 
 
 
